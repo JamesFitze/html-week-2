@@ -1,2 +1,3 @@
 # html-week-2
-learning github pages
+Learning Github pages
+Learning GitHub
